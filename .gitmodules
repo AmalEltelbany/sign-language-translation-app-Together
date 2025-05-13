@@ -1,0 +1,3 @@
+[submodule "TogetherApp"]
+	path = TogetherApp
+	url = https://github.com/WAHiiED/TogetherApp.git
