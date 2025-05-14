@@ -1,5 +1,15 @@
 # 📱 Sign Language Translation Mobile Application
 
+## 🎥 Demo
+
+[🎬 Watch Demo Video]
+
+https://github.com/user-attachments/assets/1a45f7f6-01fa-4261-ac1c-259b74b5222b
+
+
+
+---
+
 ## 🚀 Project Overview
 
 The core mission of this project is to develop an innovative mobile application that bridges the communication gap between individuals who use sign language and those who do not. The app aims to offer intuitive and accessible solutions for translating between sign language and spoken/written language in real-time and through search functionalities.
@@ -40,3 +50,4 @@ The core mission of this project is to develop an innovative mobile application 
 ---
 
 This project is a step towards fostering an inclusive, accessible, and connected world where language barriers are minimized through technology.
+
